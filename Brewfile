@@ -11,5 +11,11 @@ brew brew-file
 tap argon/mas
 brew mas
 
+# Other Homebrew packages
+brew gettext
+brew git
+brew pcre
+brew xz
+
 # App Store applications
 appstore 497799835 Xcode
