@@ -5,3 +5,4 @@ install some mac apps
 * homebrew cask
 * arudino
 * nodebrew
+* osculator
