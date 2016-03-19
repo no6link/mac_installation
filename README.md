@@ -6,3 +6,4 @@ install some mac apps
 * arudino
 * nodebrew
 * osculator
+* max
